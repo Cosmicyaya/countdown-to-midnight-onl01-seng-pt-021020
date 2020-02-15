@@ -1,4 +1,5 @@
 #write your code here
 
 def countdown
-end
+  x = 0
+  while x > 10
